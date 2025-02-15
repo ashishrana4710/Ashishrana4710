@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Rana</h1>
 <h3 align="center">A passionate Full Stack developer from bangalore,India</h3>
 
-<img align="right" alt="coding" width="400" src=https://www.bing.com/images/search?view=detailV2&ccid=LzTQzpbP&id=3B075B015E78397F8BF9F0C1AA9ADA648FED93AE&thid=OIP.LzTQzpbP5LscoMtam_KzVQHaFj&mediaurl=https%3a%2f%2fwww.freecodecamp.org%2fnews%2fcontent%2fimages%2f2022%2f11%2fhire-full-stack-developers1546507474317-1.gif&exph=600&expw=800&q=+animated+developer+gif&simid=607990353076883767&FORM=IRPRST&ck=1E40A4EFCD3367CB01FFA493D37EBEB4&selectedIndex=35&itb=0">
+<img align="right" alt="coding" width="400" src=https://th.bing.com/th/id/OIP.bSs4JZV7rzL4k-xxAppRiwHaFY?w=267&h=194&c=7&r=0&o=5&pid=1.7>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishrana4710&label=Profile%20views&color=0e75b6&style=flat" alt="ashishrana4710" /> </p>
 
