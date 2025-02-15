@@ -1,36 +1,77 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Ashish Rana</h1>
-<h3 align="center">A passionate Full Stack developer from bangalore,India</h3>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ashishrana4710.github.io/AshishPortfolio/)
 
-<img align="right" alt="coding" width="400" src=https://th.bing.com/th/id/OIP.bSs4JZV7rzL4k-xxAppRiwHaFY?w=267&h=194&c=7&r=0&o=5&pid=1.7>
+# Hi, I'm Ashish Rana 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishrana4710&label=Profile%20views&color=0e75b6&style=flat" alt="ashishrana4710" /> </p>
+### IAM Developer | Full Stack Developer | AI & ML Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishrana4710" alt="ashishrana4710" /></a> </p>
+I am a highly motivated **IAM Developer at Tata Consultancy Services (TCS)** with a strong background in **Full Stack Development, AI/ML, and Cybersecurity**. With hands-on experience in **web development, IoT, and cloud security**, I am passionate about building scalable solutions and exploring new technologies.
 
-- 🌱 I’m currently learning **Javascript,node js**
+📍 **Bangalore, India** | 📧 **ashishrana4710@gmail.com**  
+🌐 **[Portfolio](https://ashishrana4710.github.io/AshishPortfolio/)** | 💼 **[LinkedIn](https://www.linkedin.com/in/ashish-rana-833b7b20a/)** | 🔗 **[GitHub](https://github.com/ashishrana4710)**
 
-- 👨‍💻 All of my projects are available at [https://ashishrana4710.github.io/AshishPortfolio/](https://ashishrana4710.github.io/AshishPortfolio/)
+---
 
-- 💬 Ask me about **Java, spring tool suit, postman**
+## 🚀 About Me
+- 🔹 **Previous Experience:**
+  - **Core Java Training** at TNS India Foundation, developing a **Placement Management System**.
+  - **Internship at Varcons Technologies** (Full Stack Development), improving software performance.
+  - **Internship at Nano Robotics Embedded Technologies** (AI/ML for Healthcare), creating a **Diabetes Prediction Model**.
+- 🔹 **Technical Stack:** Java, Python, C++, React, Node.js, SQL, MongoDB, IAM tools.
+- 🔹 **Key Projects:**
+  - **IoT-Powered Surveillance Robot** with autonomous security capabilities.
+  - **Online Restaurant Management App** for real-time table booking and queue management.
+  - **Database Management System** for an **Online Bus Booking Platform** using SQL and PHP.
+- 🔹 **Certifications:**
+  - Python (HackerRank), Generative AI (Microsoft), IoT (NPTEL), CCNA (Jetking), AngularJS (Cranes Varsity).
+- 🔹 **Hackathons & Research:**
+  - Published research on **Camouflage Multifunctional Army Robots** in **UGC IJARESM**.
+  - Participated in **Aavishkar Pravah Hackathon**, designing an **educational website**.
 
-- 📫 How to reach me **ashishrana4710@gmail**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-rana-833b7b20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-rana-833b7b20a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashishrana4710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashishrana4710" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishrana4710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishrana4710" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashishrana4710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashishrana4710" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashishrana4710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishrana4710" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ashishrana4710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ashishrana4710" height="30" width="40" /></a>
+## 💡 Technical Skills
+
+**Programming Languages:**
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Web Development:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Cloud & Security:**
+![IAM](https://img.shields.io/badge/IAM-Security-blue?style=flat)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red?style=flat&logo=security&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishrana4710&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana4710&theme=radical" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrana4710&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishrana4710&show_icons=true&locale=en&layout=compact" alt="ashishrana4710" /></p>
+## 📬 Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishrana4710&show_icons=true&locale=en" alt="ashishrana4710" /></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ashish-rana-833b7b20a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/ashishrana4710"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:ashishrana4710@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://ashishrana4710.github.io/AshishPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana4710&" alt="ashishrana4710" /></p>
+---
+
+🔥 **“Passionate about technology, security, and innovation.”**
+
+💻 **Let's build something amazing!** 🚀
