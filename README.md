@@ -1,10 +1,14 @@
 ### 👨‍💻 Ashish Rana — @ashishrana4710
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B+I'm+Ashu!;Web+Developer+Extraordinaire!;Software+Engineer+%7C+AI%2FML+Engineer+%7C+LegalTech+Innovator;&center=true&width=500&height=45" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B+I'm+Ashu!;Full+Stack+Web+Developer!;Cyber+Security+Lover!;Software+Engineer+%7C+AI%2FML+Innovator;&center=true&width=500&height=45" />
 </p>
 
 ---
+
+<img src="https://i.pinimg.com/originals/0a/61/2e/0a612e4d02e44b4f94951aa6c6aaae1d.gif" width="100%" />
 
 ### 🧠 About Me
 ```txt
@@ -30,7 +34,7 @@
 ---
 
 ### 🌟 Highlights
-- 🚀 **Web Developer** with real-world legal + business apps
+- 🚀 **Web Developer** with real-world AI + web automation systems
 - 🧠 **AI Projects**: Diabetes Prediction, Camouflage Army Bot
 - 🛠️ **Automation**: Court Case + Document Pipeline
 - 🎯 **Leadership**: Team Lead at Burger King | Shift Manager at Pizza Hut
@@ -46,7 +50,7 @@
 ---
 
 ### 🔥 Top Projects
-- 🔍 [Genius Legal Brief Assistant](https://github.com/ashishrana4710/genius-legal-brief-assistant-44) — AI-powered legal case management
+- 🔍 [Genius Legal Brief Assistant](https://github.com/ashishrana4710/genius-legal-brief-assistant-44) — AI-powered case management system
 - 🍽️ Restaurant App — Built with Android Studio, table queue & status
 - 🚍 Bus Booking System — Admin + User dashboard (PHP + SQL)
 - 🛡️ Army Surveillance Robot — IoT Bot + AI Sensors (IJARESM published)
