@@ -1,77 +1,66 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ashishrana4710.github.io/AshishPortfolio/)
-
-# Hi, I'm Ashish Rana 👋
-
-### IAM Developer | Full Stack Developer | AI & ML Enthusiast
-
-I am a highly motivated **IAM Developer at Tata Consultancy Services (TCS)** with a strong background in **Full Stack Development, AI/ML, and Cybersecurity**. With hands-on experience in **web development, IoT, and cloud security**, I am passionate about building scalable solutions and exploring new technologies.
-
-📍 **Bangalore, India** | 📧 **ashishrana4710@gmail.com**  
-🌐 **[Portfolio](https://ashishrana4710.github.io/AshishPortfolio/)** | 💼 **[LinkedIn](https://www.linkedin.com/in/ashish-rana-833b7b20a/)** | 🔗 **[GitHub](https://github.com/ashishrana4710)**
-
----
-
-## 🚀 About Me
-- 🔹 **Previous Experience:**
-  - **Core Java Training** at TNS India Foundation, developing a **Placement Management System**.
-  - **Internship at Varcons Technologies** (Full Stack Development), improving software performance.
-  - **Internship at Nano Robotics Embedded Technologies** (AI/ML for Healthcare), creating a **Diabetes Prediction Model**.
-- 🔹 **Technical Stack:** Java, Python, C++, React, Node.js, SQL, MongoDB, IAM tools.
-- 🔹 **Key Projects:**
-  - **IoT-Powered Surveillance Robot** with autonomous security capabilities.
-  - **Online Restaurant Management App** for real-time table booking and queue management.
-  - **Database Management System** for an **Online Bus Booking Platform** using SQL and PHP.
-- 🔹 **Certifications:**
-  - Python (HackerRank), Generative AI (Microsoft), IoT (NPTEL), CCNA (Jetking), AngularJS (Cranes Varsity).
-- 🔹 **Hackathons & Research:**
-  - Published research on **Camouflage Multifunctional Army Robots** in **UGC IJARESM**.
-  - Participated in **Aavishkar Pravah Hackathon**, designing an **educational website**.
-
----
-
-## 💡 Technical Skills
-
-**Programming Languages:**
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**Web Development:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Cloud & Security:**
-![IAM](https://img.shields.io/badge/IAM-Security-blue?style=flat)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red?style=flat&logo=security&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+### 👨‍💻 Ashish Rana — @ashishrana4710
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishrana4710&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana4710&theme=radical" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrana4710&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B+I'm+Ashu!;IAM+Developer+at+TCS!;AI%2FML+Engineer+%7C+Full+Stack+Developer+%7C+Legal+Tech+Builder;&center=true&width=500&height=45" />
 </p>
 
 ---
 
-## 📬 Let's Connect
+### 🧠 About Me
+```txt
+🎓 B.E. in Information Science & Engineering  
+🤖 AI/ML | Full Stack | LegalTech Tools  
+📂 Built 200+ case document automation system  
+🧑‍💻 Learning every day, building every night
+```
 
+---
+
+### ⚙️ Tech Stack
+
+```txt
+💻 Languages:        Java, Python, JavaScript, SQL
+🌐 Web Technologies: HTML, CSS, React, Node.js, Express.js
+📡 Database:         MongoDB, MySQL, PostgreSQL
+🧰 Tools:            Git, GitHub, VS Code, Postman, PgAdmin
+☁️ Hosting:          Vercel, Netlify, Render, Firebase
+```
+
+---
+
+### 🚀 GitHub Stats
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-rana-833b7b20a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/ashishrana4710"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:ashishrana4710@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://ashishrana4710.github.io/AshishPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishrana4710&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana4710&theme=radical" width="48%" />
 </p>
 
 ---
 
-🔥 **“Passionate about technology, security, and innovation.”**
+### 🧠 Featured Projects
+- 🔍 [Genius Legal Brief Assistant](https://github.com/ashishrana4710/genius-legal-brief-assistant-44) — AI-powered case management + PDF automation
+- 🍽️ [Online Restaurant App](https://github.com/ashishrana4710) — Built in Android Studio, live queue & table status
+- 🚍 [Bus Booking System](https://github.com/ashishrana4710) — PHP + SQL user/admin dashboard
+- 🛡️ [Army Surveillance Robot](https://github.com/ashishrana4710) — IoT + Camouflage + Sensors (UGC-IJARESM Paper)
 
-💻 **Let's build something amazing!** 🚀
+---
+
+### 🏆 Badges
+![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&color=yellow)
+![Java](https://img.shields.io/badge/Java-Intermediate-blue?style=flat&logo=java)
+![MongoDB](https://img.shields.io/badge/MongoDB-Pro-green?style=flat&logo=mongodb)
+![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat&logo=react)
+![Node](https://img.shields.io/badge/Node.js-Intermediate-brightgreen?style=flat&logo=node.js)
+
+---
+
+### 📈 Visitor Counter
+<p align="left">
+  <img src="https://profile-counter.glitch.me/ashishrana4710/count.svg" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+- ✉️ Email: ashishrana4710@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashish-rana-833b7b20a)
+- 💻 [Portfolio](https://ashishrana4710.github.io/AshishPortfolio)
