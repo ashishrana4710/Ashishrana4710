@@ -8,7 +8,9 @@
 
 ---
 
-<img src="https://i.pinimg.com/originals/0a/61/2e/0a612e4d02e44b4f94951aa6c6aaae1d.gif" width="100%" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0a/61/2e/0a612e4d02e44b4f94951aa6c6aaae1d.gif" width="300px" style="border-radius: 10px; box-shadow: 0 0 15px #00ffe7;" />
+</p>
 
 ### 🧠 About Me
 ```txt
