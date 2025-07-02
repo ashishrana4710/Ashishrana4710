@@ -10,7 +10,7 @@
 ```txt
 🎓 B.E. in Information Science & Engineering  
 💻 Passionate Web Developer & Software Engineer  
-🤖 AI/ML | Full Stack | LegalTech Tools | Cyber Enthusiast  
+🤖 AI/ML | Full Stack | Cyber Enthusiast  
 📂 Built 200+ case document automation system (Genius Legal Assistant)  
 🚀 Always innovating, building smart systems & solving real problems
 ```
