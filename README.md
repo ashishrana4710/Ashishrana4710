@@ -1,7 +1,7 @@
 ### 👨‍💻 Ashish Rana — @ashishrana4710
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B+I'm+Ashu!;IAM+Developer+at+TCS!;AI%2FML+Engineer+%7C+Full+Stack+Developer+%7C+Legal+Tech+Builder;&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B+I'm+Ashu!;Web+Developer+Extraordinaire!;Software+Engineer+%7C+AI%2FML+Engineer+%7C+LegalTech+Innovator;&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -9,47 +9,58 @@
 ### 🧠 About Me
 ```txt
 🎓 B.E. in Information Science & Engineering  
-🤖 AI/ML | Full Stack | LegalTech Tools  
-📂 Built 200+ case document automation system  
-🧑‍💻 Learning every day, building every night
+💻 Passionate Web Developer & Software Engineer  
+🤖 AI/ML | Full Stack | LegalTech Tools | Cyber Enthusiast  
+📂 Built 200+ case document automation system (Genius Legal Assistant)  
+🚀 Always innovating, building smart systems & solving real problems
 ```
 
 ---
 
 ### ⚙️ Tech Stack
-
 ```txt
 💻 Languages:        Java, Python, JavaScript, SQL
-🌐 Web Technologies: HTML, CSS, React, Node.js, Express.js
+🌐 Web:              HTML, CSS, React.js, Node.js, Express.js
 📡 Database:         MongoDB, MySQL, PostgreSQL
-🧰 Tools:            Git, GitHub, VS Code, Postman, PgAdmin
-☁️ Hosting:          Vercel, Netlify, Render, Firebase
+🧰 Tools:            Git, GitHub, Postman, VS Code, PgAdmin
+🧠 AI/ML:            Scikit-learn, Pandas, NumPy
+📦 Others:           Firebase, Vercel, Render, Tally ERP
 ```
+
+---
+
+### 🌟 Highlights
+- 🚀 **Web Developer** with real-world legal + business apps
+- 🧠 **AI Projects**: Diabetes Prediction, Camouflage Army Bot
+- 🛠️ **Automation**: Court Case + Document Pipeline
+- 🎯 **Leadership**: Team Lead at Burger King | Shift Manager at Pizza Hut
 
 ---
 
 ### 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishrana4710&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana4710&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishrana4710&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana4710&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🧠 Featured Projects
-- 🔍 [Genius Legal Brief Assistant](https://github.com/ashishrana4710/genius-legal-brief-assistant-44) — AI-powered case management + PDF automation
-- 🍽️ [Online Restaurant App](https://github.com/ashishrana4710) — Built in Android Studio, live queue & table status
-- 🚍 [Bus Booking System](https://github.com/ashishrana4710) — PHP + SQL user/admin dashboard
-- 🛡️ [Army Surveillance Robot](https://github.com/ashishrana4710) — IoT + Camouflage + Sensors (UGC-IJARESM Paper)
+### 🔥 Top Projects
+- 🔍 [Genius Legal Brief Assistant](https://github.com/ashishrana4710/genius-legal-brief-assistant-44) — AI-powered legal case management
+- 🍽️ Restaurant App — Built with Android Studio, table queue & status
+- 🚍 Bus Booking System — Admin + User dashboard (PHP + SQL)
+- 🛡️ Army Surveillance Robot — IoT Bot + AI Sensors (IJARESM published)
 
 ---
 
-### 🏆 Badges
+### 🏆 Badges & Tools
 ![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&color=yellow)
 ![Java](https://img.shields.io/badge/Java-Intermediate-blue?style=flat&logo=java)
-![MongoDB](https://img.shields.io/badge/MongoDB-Pro-green?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-Pro-green?style=flat&logo=mongodb)
 ![Node](https://img.shields.io/badge/Node.js-Intermediate-brightgreen?style=flat&logo=node.js)
+![Postman](https://img.shields.io/badge/Postman-Tool-orange?style=flat&logo=postman)
+![GitHub](https://img.shields.io/badge/GitHub-Active-181717?style=flat&logo=github)
 
 ---
 
